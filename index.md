@@ -1,9 +1,4 @@
----
-title: Liquid
 
----
-
-<h1> {{ page.title }} </h1>
 
 ## Hello World
 
